@@ -185,5 +185,3 @@ extension MyCreditManager {
 
 let myCreditManager = MyCreditManager()
 myCreditManager.startService()
-
-//gitKraken Test
